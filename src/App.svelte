@@ -252,7 +252,7 @@
 <main>
   <header>
     <div class="title-area">
-      <h1>
+      <h1 style="display:none">
         Iniciativas de Cooperación Sur-Sur y Triangular acumuladas por los
         países de Iberoamérica (2007-2024)
       </h1>
